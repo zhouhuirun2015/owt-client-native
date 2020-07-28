@@ -29,7 +29,7 @@ The following dependencies are for Windows only:
 - Make sure you clone the source code to a directory named `src`.
 - Create a file named .gclient in the directory above the `src` dir, with these contents:
 
-```
+```how to commit
 solutions = [ 
   {  
      "managed": False,  
